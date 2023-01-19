@@ -1,0 +1,17 @@
+[
+    {
+        "nome": "Joao",
+        "nasc": 1986,
+        "ano_atual": 2022
+    },
+    {
+        "nome": "Anna",
+        "nasc": 1996,
+        "ano_atual": 2022
+    },
+    {
+        "nome": "Maria",
+        "nasc": 2001,
+        "ano_atual": 2022
+    }
+]
